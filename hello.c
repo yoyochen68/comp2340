@@ -1,1 +1,2 @@
-pring("hello,comp2340")
+print("hello,comp2340")
+print("hello again")
